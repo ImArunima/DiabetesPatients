@@ -16,5 +16,3 @@ Key Highlights:
 ✅ Leveraged Python's data science libraries like pandas, scikit-learn.
 ✅ Achieved an accuracy rate of 74 %.
 ✅ Glucose, BMI and Age are the 3 major factors responsible for Diabetes.
-
-
