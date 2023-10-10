@@ -1,9 +1,20 @@
 # DiabetesPatients
 Diabetes Patients Predictive Modeling
 
-I've been working on predictive modeling for diabetes patients using Python, and the results are promising. This project is not just about crunching numbers; it's about making a positive impact on people's lives.
+Content:
+The dataset includes a number of medical predictor variables as well as one goal variable called "Outcome." The patient's past pregnancies, body mass index (BMI), insulin level, age, and other pertinent factors are included in this list of predictive variables.
 
-The goal here is to empower healthcare providers with tools that can aid in early detection and personalized patient care. 🏥
 
-I'm passionate about using data for social good, and this project is a testament to that commitment. 🌟
+Aim:
+The major goal is to identify a patient's risk for diabetes based on a variety of traits and characteristics.
+
+Key Highlights:
+
+✅ 65.1% of the data are diabetic patients. 
+✅ Developed a robust predictive model for diabetes risk assessment.
+✅ Implemented python visualization libraries for EDA.
+✅ Leveraged Python's data science libraries like pandas, scikit-learn.
+✅ Achieved an accuracy rate of 74 %.
+✅ Glucose, BMI and Age are the 3 major factors responsible for Diabetes.
+
 
